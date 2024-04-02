@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="sipka_produkt_select" transform="translate(-1640 -598)">
+    <rect id="Rectangle_89" data-name="Rectangle 89" width="20" height="20" rx="3" transform="translate(1640 598)" fill="#ff5104"/>
+    <g id="Group_222" data-name="Group 222" transform="translate(1647.322 605.957)">
+      <g id="Group_278" data-name="Group 278" transform="translate(2.834 -1.542) rotate(45)">
+        <path id="Line_39" data-name="Line 39" d="M0,4.878a1,1,0,0,1-1-1V0A1,1,0,0,1,0-1,1,1,0,0,1,1,0V3.878A1,1,0,0,1,0,4.878Z" transform="translate(3.878 0)" fill="#fff"/>
+        <path id="Line_49" data-name="Line 49" d="M0,4.878a1,1,0,0,1-1-1V0A1,1,0,0,1,0-1,1,1,0,0,1,1,0V3.878A1,1,0,0,1,0,4.878Z" transform="translate(3.878 3.878) rotate(90)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="44" viewBox="0 0 22 44">
+  <g id="filtr_sbalit" transform="translate(5350 -1010)">
+    <path id="Path_1540" data-name="Path 1540" d="M11,0A11,11,0,1,1,0,11,11,11,0,0,1,11,0Z" transform="translate(-5328 1010) rotate(90)" fill="#fff"/>
+    <path id="Path_1541" data-name="Path 1541" d="M11,0A11,11,0,1,1,0,11,11,11,0,0,1,11,0Z" transform="translate(-5328 1032) rotate(90)" fill="#fff"/>
+    <g id="Group_558" data-name="Group 558" transform="translate(-5740.5 641.549)">
+      <path id="Line_39" data-name="Line 39" d="M0,6.905a1,1,0,0,1-1-1V0A1,1,0,0,1,0-1,1,1,0,0,1,1,0V5.905A1,1,0,0,1,0,6.905Z" transform="translate(401.453 376.451)" fill="#006fb0"/>
+      <path id="Line_40" data-name="Line 40" d="M0,6.905a1,1,0,0,1-1-1V0A1,1,0,0,1,0-1,1,1,0,0,1,1,0V5.905A1,1,0,0,1,0,6.905Z" transform="translate(404.405 379.404) rotate(90)" fill="#006fb0"/>
+    </g>
+    <g id="Group_559" data-name="Group 559" transform="translate(-5740.5 663.596)">
+      <path id="Line_40-2" data-name="Line 40" d="M0,6.905a1,1,0,0,1-1-1V0A1,1,0,0,1,0-1,1,1,0,0,1,1,0V5.905A1,1,0,0,1,0,6.905Z" transform="translate(404.405 379.404) rotate(90)" fill="#003250"/>
+    </g>
+  </g>
+</svg>

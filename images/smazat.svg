@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <filter id="Ellipse_12" x="0" y="0" width="35" height="35" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#006fb0" flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_399" data-name="Group 399" transform="translate(-1361.5 -21.5)">
+    <g transform="matrix(1, 0, 0, 1, 1361.5, 21.5)" filter="url(#Ellipse_12)">
+      <g id="Ellipse_12-2" data-name="Ellipse 12" transform="translate(7.5 5.5)" fill="#fff" stroke="#fff" stroke-width="1">
+        <circle cx="10" cy="10" r="10" stroke="none"/>
+        <circle cx="10" cy="10" r="9.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_398" data-name="Group 398" transform="translate(2.868 1.868)">
+      <path id="Line_103" data-name="Line 103" d="M6,7a1,1,0,0,1-.707-.293l-6-6a1,1,0,0,1,0-1.414,1,1,0,0,1,1.414,0l6,6A1,1,0,0,1,6,7Z" transform="translate(1373.132 32.132)" fill="#ff5104"/>
+      <path id="Line_104" data-name="Line 104" d="M7,8a1,1,0,0,1-.707-.293l-6-6A1,1,0,0,1,1.707.293l6,6A1,1,0,0,1,7,8Z" transform="translate(1380.132 31.132) rotate(90)" fill="#ff5104"/>
+    </g>
+  </g>
+</svg>

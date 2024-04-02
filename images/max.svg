@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <filter id="filtr__min" x="0" y="0" width="46" height="46" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#9cbed2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="max" transform="translate(5359 -1112)">
+    <g transform="matrix(1, 0, 0, 1, -5359, 1112)" filter="url(#filtr__min)">
+      <rect id="filtr__min-2" data-name="filtr_,min" width="28" height="28" rx="14" transform="translate(9 9)" fill="#ff6e2e"/>
+    </g>
+    <path id="filtr__min_-_Outline" data-name="filtr_,min - Outline" d="M15,9.643A5.357,5.357,0,1,0,20.357,15,5.363,5.363,0,0,0,15,9.643M15,0A15,15,0,1,1,0,15,15,15,0,0,1,15,0Z" transform="translate(-5351 1120)" fill="#fff"/>
+  </g>
+</svg>

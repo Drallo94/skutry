@@ -1,0 +1,12 @@
+<svg id="zamek" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="26" viewBox="0 0 19 26">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="19" height="26" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_9" data-name="Group 9" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <path id="Path_37" data-name="Path 37" d="M18.048,165.1v-4.064A2.032,2.032,0,0,1,20.08,159H17.032A2.032,2.032,0,0,0,15,161.032V165.1a8.132,8.132,0,0,0,9.651,7.984,8.13,8.13,0,0,1-6.6-7.984" transform="translate(-13.762 -148.239)" fill="#dbf4ff"/>
+    <path id="Path_38" data-name="Path 38" d="M15.239,9.753H6.1V5.08a3.048,3.048,0,0,1,6.1,0V6.705a1.016,1.016,0,1,0,2.032,0V5.08a5.08,5.08,0,1,0-10.159,0V9.753H3.048A3.051,3.051,0,0,0,0,12.8v4.064a9.143,9.143,0,0,0,18.286,0V12.8a3.051,3.051,0,0,0-3.048-3.048m1.016,7.111a7.111,7.111,0,1,1-14.223,0V12.8a1.017,1.017,0,0,1,1.016-1.016H15.239A1.017,1.017,0,0,1,16.255,12.8Z" transform="translate(0.222 -0.007)" fill="#006fb0"/>
+    <path id="Path_39" data-name="Path 39" d="M96.1,207.048a3.048,3.048,0,1,0-4.064,2.873v1.191a1.016,1.016,0,0,0,2.032,0v-1.191a3.053,3.053,0,0,0,2.032-2.873m-3.048,1.016a1.016,1.016,0,1,1,1.016-1.016,1.017,1.017,0,0,1-1.016,1.016" transform="translate(-83.682 -190.191)" fill="#ff5104"/>
+  </g>
+</svg>

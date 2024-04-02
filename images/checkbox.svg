@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25">
+  <g id="checkbox" transform="translate(3114 -498)">
+    <rect id="Rectangle_266" data-name="Rectangle 266" width="25" height="25" rx="3" transform="translate(-3114 498)" fill="#ff5104"/>
+    <g id="Group_560" data-name="Group 560" transform="translate(-3352.972 -851.643)">
+      <path id="Line_39" data-name="Line 39" d="M3.314,5.314A1.994,1.994,0,0,1,1.9,4.729L-1.414,1.414a2,2,0,0,1,0-2.828,2,2,0,0,1,2.828,0L4.729,1.9A2,2,0,0,1,3.314,5.314Z" transform="translate(247.5 1363.472)" fill="#fff"/>
+      <path id="Line_40" data-name="Line 40" d="M0,10.286a1.992,1.992,0,0,1-1.248-.438,2,2,0,0,1-.312-2.811L5.067-1.249a2,2,0,0,1,2.811-.312A2,2,0,0,1,8.19,1.249L1.562,9.535A2,2,0,0,1,0,10.286Z" transform="translate(250.814 1358.5)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

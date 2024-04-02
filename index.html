@@ -1,0 +1,87 @@
+
+
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+	<meta charset="utf-8">
+	<meta name="theme-color" content="#fff">
+	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+	<meta name="robots" content="index,follow">
+	<title>Skútry.cz | Vše pro váš skútr</title>
+	<meta name="description" content="Skútry.cz | Vše pro váš skútr">
+	
+	<link rel="stylesheet" href="css/style.min.css" type="text/css">
+	<link rel="stylesheet" href="css/print.min.css" media="print">
+	<link rel="manifest" href="config/manifest/manifest.json">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+	<script type="text/javascript">
+		var ajax = new XMLHttpRequest();
+		ajax.open("GET", "svgs/svgs.svg", true);
+		ajax.send();
+		ajax.onload = function(e) {
+			var div = document.createElement("div");
+			div.innerHTML = ajax.responseText;
+			document.body.insertBefore(div, document.body.childNodes[0]);
+		}
+	</script>
+</head>
+<body>
+	<div class="social">
+	<a href="#">
+		<img src="images/facebook-circle.svg" alt="facebook" width="36" height="36">
+	</a>
+	<a href="#">
+		<img src="images/phone-circle.svg" alt="phone" width="36" height="36">
+	</a>
+</div>
+
+
+	<div class="totop"><img src="images/totop.svg" alt="arrow" width="50" height="50"></div>
+
+	<div class="site">
+		
+	<section class="section">
+		<div class="in" style="max-width: 500px; margin: 0 auto;">
+			<svg class="icon icon--logo mainLogo">
+	<use xlink:href="#icon--logo"></use>
+</svg>
+
+
+
+			<hr>
+
+			<h1>Seznam HTML šablon</h1>
+
+			<ul style="font-size:1.3em;">
+				<li><a href="categories.html">Kategorie</a></li>
+			</ul>
+
+			<style>
+				ul li {
+					list-style: square;
+					margin-left: 30px;
+					font-size: 24px;
+
+
+				}
+
+				ul li a{
+					text-decoration: none;
+				}
+				.mainLogo{
+					width: 164px;
+					height: 44px;
+				}
+			</style>
+		</div>
+	</section>
+
+	</div>
+
+	<script src="js/scripts.js"></script>
+</body>
+</html>
