@@ -11,7 +11,6 @@
 	<meta name="description" content="Skútry.cz | Vše pro váš skútr">
 	
 	<link rel="stylesheet" href="css/style.min.css" type="text/css">
-	<link rel="stylesheet" href="css/print.min.css" media="print">
 	<link rel="manifest" href="config/manifest/manifest.json">
 
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -93,17 +92,63 @@
 				    <img src="images/logo.svg" alt="logo" width="315" height="105">
 				</picture>
 			</a>
-			<form action="" class="search">
-				<div class="hide--desktop">Vyhledávání</div>
-				<img src="images/search-bg.svg" alt="bg" width="177" height="180" class="hide--desktop search__bg">
-				<label>
-					<input type="text" placeholder="Sem zadejte hledané slovo ...">
-				</label>
-				<button type="submit">
-					<img src="images/lupa.svg" alt="search" width="30" height="30" class="hide--tablet hide--mobile">
-					Vyhledat
-				</button>
-			</form>
+			<div class="search-wrapper">
+				<form action="" class="search">
+					<div class="hide--desktop">Vyhledávání</div>
+					<img src="images/search-bg.svg" alt="bg" width="177" height="180" class="hide--desktop search__bg">
+					<label>
+						<input type="text" placeholder="Sem zadejte hledané slovo ...">
+					</label>
+					<button type="submit">
+						<img src="images/lupa.svg" alt="search" width="30" height="30" class="hide--tablet hide--mobile">
+						Vyhledat
+						<span>hledat</span>
+					</button>
+				</form>
+				<div class="search-box">
+					<div class="search-box__typo">
+						<a href="#"><span>moto<strong>rka</strong></span></a>
+						<a href="#"><span>moto<strong>cykl</strong></span></a>
+						<a href="#"><span>moto<strong>kára</strong></span></a>
+					</div>
+					<div class="search-box__title"><span>zboží</span></div>
+					<div class="search-box__list">
+						<a href="#" class="search-box__item">
+							<div class="search-box__item-img">
+								<img src="images/search-item.png" alt="" width="80" height="65">
+							</div>
+							<div class="search-box__name">Motorka Kymco DT X360</div>
+						</a>
+						<a href="#" class="search-box__item">
+							<div class="search-box__item-img">
+								<img src="images/cat3.png" alt="">
+							</div>
+							<div class="search-box__name">Kymco Agility City+ 125i CBS E5 - barva modrá</div>
+						</a>
+						<a href="#" class="search-box__item">
+							<div class="search-box__item-img">
+								<img src="images/thumb.png" alt="">
+							</div>
+							<div class="search-box__name">Motorka Kymco DT X360</div>
+						</a>
+					</div>
+					<div class="search-box__title"><span>Kategorie</span></div>
+					<div class="search-box__categories">
+						<a href="#" class="search-box__cat">
+							<img src="images/cat-arrow.svg" alt="arrow" width="8" height="8">
+							<div class="search-box__name">Motorky</div>
+						</a>
+						<a href="#" class="search-box__cat">
+							<img src="images/cat-arrow.svg" alt="arrow" width="8" height="8">
+							<div class="search-box__name">Motokáry</div>
+						</a>
+					</div>
+					<div class="search-box__bottom">
+						<span></span>
+						<a href="#">Zobrazit všechny výsledky</a>
+					</div>
+				</div>
+			</div>
 			<div class="toolbox">
 				<div class="toolbox__main">
 					<a href="#">
