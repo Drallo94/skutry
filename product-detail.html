@@ -911,7 +911,8 @@
 			<div class="detail-header__helper">
 				<div class="fullselect">
 					<p>Barva</p>
-					<select>
+					<label for="Color">Barva</label>
+					<select id="Color">
 						<option>oranžová/černá</option>
 						<option>modrá</option>
 						<option>bílá</option>
@@ -929,7 +930,8 @@
 						        <span onclick="var input = this.closest('.counter').querySelector('input[type=&quot;number&quot;]'); var value = parseInt(input.value, 10); input.value = isNaN(value) ? 1 : Math.max(1, value - 1);"><img src="images/minus.svg" alt="minus" width="9" height="2"></span>
 						    </div>
 						    <div class="counter__value">
-						        <input type="number" value="1" min="1">
+								<label for="counterInput">Počet</label>
+						        <input type="number" value="1" min="1" id="counterInput">
 						        <span>ks</span>
 						    </div>
 						</div>
